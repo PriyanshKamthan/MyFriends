@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/drawable/button_style.xml" value="0.118" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/drawable/comment_icon.xml" value="0.109" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/drawable/edittext_style.xml" value="0.118" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/drawable/heart_icon.xml" value="0.1095" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/drawable/imageview_background.xml" value="0.118" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/drawable/like_icon.xml" value="0.1" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/drawable/liked_icon.xml" value="0.1" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/drawable/profile_icon.xml" value="0.119" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/drawable/save_icon.xml" value="0.109" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/drawable/user_image_icon.xml" value="0.118" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/layout/activity_comment.xml" value="0.16715257531584063" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/layout/activity_edit_profile.xml" value="0.2" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/layout/activity_post.xml" value="0.2" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/layout/activity_register.xml" value="0.176" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/layout/activity_start.xml" value="0.12" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/layout/comment_item.xml" value="0.26259541984732826" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/layout/fragment_notification.xml" value="0.24010416666666667" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/layout/fragment_post_detail.xml" value="0.176" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/layout/fragment_profile.xml" value="0.2631578947368421" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/layout/fragment_search.xml" value="0.2936630602782071" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/layout/post_item.xml" value="0.264" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/layout/post_photo_item.xml" value="0.23104265402843602" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/layout/user_item.xml" value="0.45243619489559167" />
+        <entry key="..\:/AndroidDevelopment/SocialMedia/app/src/main/res/menu/bottom_nav_menu.xml" value="0.17592592592592593" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

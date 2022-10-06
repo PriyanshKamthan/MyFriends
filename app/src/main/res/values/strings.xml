@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">My Friends</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email_id">Enter Email ID</string>
+    <string name="account_already_exists_login_user">Account already exists? LOGIN USER…</string>
+    <string name="register_new_user">Register New User</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="please_login_yourself">Please Login Yourself…</string>
+    <string name="account_does_not_exist_register_new_user">Account does not exist? REGISTER NEW USER…</string>
+    <string name="empty_field_message">No field should be empty</string>
+    <string name="short_password_message">Password must be at least 6 characters</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="my_friends_logo">My friends logo</string>
+    <string name="welcome">Welcome</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="post">Post</string>
+    <string name="notification">Notification</string>
+    <string name="profile">Profile</string>
+    <string name="select_post">Select Post</string>
+    <string name="description">Description...</string>
+    <string name="post_image">Post Image</string>
+    <string name="select_image">Select Image</string>
+    <string name="image_upload_message">"Woohoo!! Image Uploaded Successfully.."</string>
+    <string name="select_image_message">"Please firstly select the image"</string>
+    <string name="search_bar">Search...</string>
+    <string name="follow">Follow</string>
+    <string name="following">Following</string>
+    <string name="comments">Comments</string>
+    <string name="add_a_comment">Add a comment</string>
+    <string name="enter_name">Enter Full Name</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="enter_bio">Enter Bio</string>
+</resources>
